@@ -1,0 +1,102 @@
+.back_blue{background-color:#069;}
+.back_red{background-color:#F00;}
+.back_greenblue{background-color:#E9F3EE;}
+.back_white{background:linear-gradient(to bottom, #FFF ,#DDD  );}
+.color_white{color:#FFF;}
+
+ 
+
+.menu_atas li{text-align:center;display:block;float:left;font-size:14px;text-transform:capitalize;font-family:Arial;min-width:150px;color:#555;height:40px;padding:10px 20px;margin:5px;border-radius:20px;}
+.menu_atas a{color:#FFF;}
+.menu_atas a .active 
+{
+	color:#000;background:radial-gradient(circle at center, #FFF,#CCC);
+}
+
+.menu{margin:10px;padding:5px 0 0 0;}
+.menu li{float:left;width:100px;display:block;}
+.menu ul li {padding:0;padding:5px 0 5px 0;color:#FFF !important;}
+.menu a{color:#FFF !important;text-decoration:none;font-weight:bold;}
+.menu_top li{padding:0 !important; line-height:20px !important;color:#999 !important;}
+.menu_top li a{line-height:20px;padding-top:5px;padding-bottom:5px;color:#999 !important;}
+.menu_admin li{border:2px solid #09C;padding:5px;width:110px;text-align:center;margin-right:5px;border-radius:10px;background-color:#09C;text-transform:capitalize;}
+.menu_admin li a{color:#FFF !important;font-weight:normal;}
+
+
+.judul_menu{background:linear-gradient(to bottom, #08C 50%, #09C 1%, #09C 100%);color:#FFF;padding:5px;font-size:14px;}
+.judul_conten{font-size:18px;padding:20px;text-transform:capitalize;font-weight:bold;font-family:Cambria;color:#666;border-bottom:1px solid #CCC;}
+.isi_conten{padding:5px 20px 20px 20px;border-radius:0 0 3px 3px;min-height:550px !important;margin-bottom:20px;text-align:justify;font-size:14px;}
+
+
+.tbl_menu{border:3px solid #09C;text-align:center;padding:10px;margin-right:10px;border-radius:10px;}
+.tbl_registrasi{background-color:#09C !important;color:#FFF !important;}
+.tbl_login{background-color:#FFF !important;color:#09C !important;}
+*{font-family:Cambria;}
+
+
+.nav ul li{font-family:Ebrima;font-size:14px;text-transform:capitalize;}
+
+.tbl_daftar_jenis:hover>.daftar_jenis{display:block;}
+.daftar_jenis{position:absolute;width:200px;min-height:800px;z-index:9999;display:none;}
+.daftar_jenis .daftar_jenis2{background-color:#FFF;position:absolute;top:30px;width:230px;height:700px;padding:10px;}
+.daftar_jenis2 li{display:block;line-height:35px;margin-left:20px;}
+.daftar_jenis2 li a{color:#999;}
+.daftar_jenis2 li a:hover{color:#F00;text-decoration:none;}
+
+h1,h2,h3,h4{text-transform:capitalize;}
+
+.tbl1 td:first-child{width:40px;}
+.tbl1 td:last-child{width:100px;}
+
+
+.judul_halaman p{text-align:center;margin:-10px 0 20px 0;font-size:12px;color:#666;font-family:Ebrima;}
+
+
+.form1{}
+.form1 select{width:100%;padding:7px;}
+.form1 label{text-transform:capitalize;margin-top:10px;color:#777;font-size:14px;color:#555;text-transform:capitalize;}
+.form1 table{width:100%;}
+.form1 td:first-child{text-transform:capitalize;width:120px;padding:5px 20px 5px 10px;line-height:30px;}
+
+textarea{height:100px !important;resize:none;}
+
+body{font-size:12px;}
+table{font-size:13px;}
+thead th{text-transform:capitalize;vertical-align:top;}
+
+.tbl_input{background-color:#063;color:#FFF;border:none;padding:3px 10px 3px 10px;}
+.tbl_simpan{background-color:#099;color:#FFF;border:none;}
+
+
+
+
+.judul_halaman h2{text-align:center;color:#666;font-family:Calibri !important;}
+h2{font-size:12px;font-weight:bold;margin-top:0px;border-bottom:1px solid #CCC;padding:10px 0;color:#666;font-size:17px;}
+
+
+.tabel2 {font-size:14px;font-family:Verdana;}
+.tabel2 th,.tabel2 td{border:1px solid #CCC;padding:5px;}
+
+.tabel3 {font-size:13px;}
+.tabel3 th,.tabel3 td{border:1px solid #CCC;padding:5px;}
+
+.tabel4{font-size:12px;text-align:center;}
+.tabel4 td,.tabel4 th{padding:3px 5px;border:1px solid #CCC;text-align:center;min-width:50px;}
+
+.table{font-family:Arial !important;border-radius:5px;}
+.table thead tr{background-color:#069;color:#FFF;border-radius:5px;}
+.table thead tr th{font-family:Calibri !important;font-size:14px;}
+.table thead tr th:first-child{border-radius:0 0 0 0;}
+.table thead tr th:last-child{border-radius:0 0 0 0 ;}
+
+.table tbody tr:last-child td:first-child{border-radius:0 0 0 0;}
+.table tbody tr:last-child td:last-child{border-radius:0 0 0 0;}
+
+.table td{font-family:Calibri !important;font-size:14px;}
+.table tbody tr{background-color:#F9F9F9;}
+.table th:last-child,.table td:last-child{width:130px;text-align:center;}
+.table .btn{padding:3px 5px;border-radius:3px;width:50px !important;float:left;margin-right:5px;}
+.btn a{color:#FFF !important;}
+
+
+
